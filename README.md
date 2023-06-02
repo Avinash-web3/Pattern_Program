@@ -25,3 +25,7 @@
        8
        9
        10
+- [Program-3](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-3.js)
+
+# 
+     * * * * * * * * * * 
