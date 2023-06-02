@@ -13,7 +13,7 @@
      * 
      
      
-   -[Program-2](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-2.js)
+  - [Program-2](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-2.js)
    #  
        1
        2
