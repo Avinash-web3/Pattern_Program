@@ -154,12 +154,23 @@
     C
     B
     A
-- [Pattern-15](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-14.js)
+- [Pattern-15](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-15.js)
 #    
       J I H G F E D C B A 
 
 
-
+- [Pattern-16](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-16.js)
+#  
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
+     A B C D E F G H I J 
 
 
 
