@@ -197,9 +197,18 @@
     J I H G F E D C B A 
     J I H G F E D C B A 
     J I H G F E D C B A 
-
-
-
+- [Pattern-19](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-19.js)
+#  
+      J J J J J J J J J J 
+      I I I I I I I I I I 
+      H H H H H H H H H H 
+      G G G G G G G G G G 
+      F F F F F F F F F F 
+      E E E E E E E E E E 
+      D D D D D D D D D D 
+      C C C C C C C C C C 
+      B B B B B B B B B B 
+      A A A A A A A A A A 
 
 
 
