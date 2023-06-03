@@ -76,3 +76,17 @@
       8 8 8 8 8 8 8 8 8 8 
       9 9 9 9 9 9 9 9 9 9
       10 10 10 10 10 10 10 10 10 10 
+      
+ - [Pattern-8](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-8.js)
+
+#   
+     10
+     9
+     8
+     7
+     6
+     5
+     4
+     3
+     2
+     1
