@@ -172,7 +172,7 @@
      A B C D E F G H I J 
      A B C D E F G H I J 
 
-- [Pattern-17](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-16.js)
+- [Pattern-17](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-17.js)
 #    
     A A A A A A A A A A 
     B B B B B B B B B B 
@@ -185,9 +185,18 @@
     I I I I I I I I I I 
     J J J J J J J J J J 
 
-
-
-
+- [Pattern-18](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-18.js)
+#
+    J I H G F E D C B A  
+    J I H G F E D C B A  
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
+    J I H G F E D C B A 
 
 
 
