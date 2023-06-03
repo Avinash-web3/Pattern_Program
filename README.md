@@ -141,8 +141,19 @@
 #   
      A B C D E F G H I J 
 
+- [Pattern-14](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-14.js)
 
-
+#    
+    J
+    I
+    H
+    G
+    F
+    E
+    D
+    C
+    B
+    A
 
 
 
