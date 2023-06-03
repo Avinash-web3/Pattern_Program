@@ -122,3 +122,41 @@
       3 3 3 3 3 3 3 3 3 3 
       2 2 2 2 2 2 2 2 2 2 
       1 1 1 1 1 1 1 1 1 1 
+- [Pattern-12](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-12.js)
+
+#
+      A
+      B
+      C
+      D
+      E
+      F
+      G
+      H
+      I
+      J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
