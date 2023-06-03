@@ -209,8 +209,19 @@
       C C C C C C C C C C 
       B B B B B B B B B B 
       A A A A A A A A A A 
-
-
+- [Pattern-20](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-20.js)
+#   
+   
+     * 
+     * * 
+     * * * 
+     * * * * 
+     * * * * * 
+     * * * * * * 
+     * * * * * * * 
+     * * * * * * * * 
+     * * * * * * * * * 
+     * * * * * * * * * * 
 
 
 
