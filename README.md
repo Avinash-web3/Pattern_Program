@@ -136,9 +136,10 @@
       I
       J
 
+- [Pattern-13](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-13.js)
 
-
-
+#   
+     A B C D E F G H I J 
 
 
 
