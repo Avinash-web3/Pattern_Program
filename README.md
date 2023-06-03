@@ -90,3 +90,7 @@
      3
      2
      1
+- [Pattern-9](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-9.js)
+
+#
+    10 9 8 7 6 5 4 3 2 1
