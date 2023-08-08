@@ -1,5 +1,5 @@
 # JavaScript_Star_Pattern_Program
-- [Pattern-1](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/pattern-1.js)
+- [Pattern-1}(https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-1.js)
 # 
      * 
      * 
