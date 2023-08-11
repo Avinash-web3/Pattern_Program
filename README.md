@@ -222,7 +222,7 @@
      * * * * * * * * 
      * * * * * * * * * 
      * * * * * * * * * * 
-- [Pattern-21](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-20.js)
+- [Pattern-21](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-21.js)
 
 # 
       1
