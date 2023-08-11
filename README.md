@@ -222,6 +222,18 @@
      * * * * * * * * 
      * * * * * * * * * 
      * * * * * * * * * * 
+- [Pattern-21](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-20.js)
 
+# 
+      1
+      1 2 
+      1 2 3 
+      1 2 3 4 
+      1 2 3 4 5 
+      1 2 3 4 5 6 
+      1 2 3 4 5 6 7 
+      1 2 3 4 5 6 7 8 
+      1 2 3 4 5 6 7 8 9 
+      1 2 3 4 5 6 7 8 9 10 
 
 
