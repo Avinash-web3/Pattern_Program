@@ -236,4 +236,16 @@
       1 2 3 4 5 6 7 8 9 
       1 2 3 4 5 6 7 8 9 10 
 
+- [Pattern-22](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-22.js)
+  #
 
+      1 
+      2 2 
+      3 3 3 
+      4 4 4 4 
+      5 5 5 5 5 
+      6 6 6 6 6 6 
+      7 7 7 7 7 7 7 
+      8 8 8 8 8 8 8 8 
+      9 9 9 9 9 9 9 9 9 
+      10 10 10 10 10 10 10 10 10 10 
