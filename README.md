@@ -249,3 +249,16 @@
       8 8 8 8 8 8 8 8 
       9 9 9 9 9 9 9 9 9 
       10 10 10 10 10 10 10 10 10 10 
+
+- [Pattern-23](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/Pattern-23.js)
+#     
+       10 
+       9 9 
+       8 8 8 
+       7 7 7 7 
+       6 6 6 6 6 
+       5 5 5 5 5 5 
+       4 4 4 4 4 4 4 
+       3 3 3 3 3 3 3 3 
+       2 2 2 2 2 2 2 2 2 
+       1 1 1 1 1 1 1 1 1 1 
