@@ -262,3 +262,18 @@
        3 3 3 3 3 3 3 3 
        2 2 2 2 2 2 2 2 2 
        1 1 1 1 1 1 1 1 1 1 
+
+- [Pattern-24](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/PATTERN/Pattern-24.js)
+#
+
+
+    * * * * * * * * * * 
+    * * * * * * * * * 
+    * * * * * * * * 
+    * * * * * * * 
+    * * * * * * 
+    * * * * * 
+    * * * * 
+    * * * 
+    * * 
+    * 
