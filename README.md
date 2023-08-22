@@ -307,3 +307,16 @@
     I I I I I I I I I 
     J J J J J J J J J J 
 
+- [Pattern-27](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/PATTERN/Pattern-27.js)
+#
+
+    J 
+    I I 
+    H H H 
+    G G G G 
+    F F F F F 
+    E E E E E E 
+    D D D D D D D 
+    C C C C C C C C 
+    B B B B B B B B B 
+    A A A A A A A A A A 
