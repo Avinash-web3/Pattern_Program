@@ -1,5 +1,8 @@
 # JavaScript_Star_Pattern_Program
-- [Pattern-1](https://github.com/Avinash-web3/JavaScript_Star_Pattern_Program/blob/main/PATTERN/Pattern-1.js)
+
+
+| Pattern-1| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript]()    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
 # 
      * 
      * 
