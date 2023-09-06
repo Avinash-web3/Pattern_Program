@@ -393,3 +393,17 @@
     C C C 
     B B 
     A 
+| Pattern-31| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-31.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+    A A A A A A A A A A 
+    B B B B B B B B B 
+    C C C C C C C C 
+    D D D D D D D 
+    E E E E E E 
+    F F F F F 
+    G G G G 
+    H H H 
+    I I 
+    J 
