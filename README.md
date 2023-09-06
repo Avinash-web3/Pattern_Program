@@ -378,3 +378,18 @@
     3 3 3 
     2 2 
     1 
+
+| Pattern-30| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-30.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+    J J J J J J J J J J 
+    I I I I I I I I I 
+    H H H H H H H H 
+    G G G G G G G 
+    F F F F F F 
+    E E E E E 
+    D D D D 
+    C C C 
+    B B 
+    A 
