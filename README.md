@@ -348,7 +348,7 @@
     B B B B B B B B B 
     A A A A A A A A A A 
 
-| Pattern-27| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-28.js)    | [Rust]()  | [Go]()
+| Pattern-28| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-28.js)    | [Rust]()  | [Go]()
 |:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
 #   
 
