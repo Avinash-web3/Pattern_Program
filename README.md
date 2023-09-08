@@ -313,3 +313,16 @@
     9 8 7 6 5 4 3 2 1 
     10 9 8 7 6 5 4 3 2 1 
     
+| Pattern-26| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-26.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+     A 
+     B A 
+     C B A 
+     D C B A 
+     E D C B A 
+     F E D C B A 
+     G F E D C B A 
+     H G F E D C B A 
+     I H G F E D C B A 
+     J I H G F E D C B A 
