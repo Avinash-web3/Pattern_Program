@@ -257,3 +257,16 @@
       1 2 3 4 5 6 7 8 9 
       1 2 3 4 5 6 7 8 9 10 
 
+| Pattern-22| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-22.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+     A 
+     A B 
+     A B C 
+     A B C D 
+     A B C D E 
+     A B C D E F 
+     A B C D E F G 
+     A B C D E F G H 
+     A B C D E F G H I 
+     A B C D E F G H I J 
