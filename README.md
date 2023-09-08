@@ -284,3 +284,17 @@
     3 3 3 3 3 3 3 3 
     2 2 2 2 2 2 2 2 2 
     1 1 1 1 1 1 1 1 1 1 
+
+| Pattern-24| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-24.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+    J 
+    I I 
+    H H H 
+    G G G G 
+    F F F F F 
+    E E E E E E 
+    D D D D D D D 
+    C C C C C C C C 
+    B B B B B B B B B 
+    A A A A A A A A A A 
