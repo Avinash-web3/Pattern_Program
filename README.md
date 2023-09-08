@@ -340,3 +340,17 @@
     8 8 8 8 8 8 8 8 
     9 9 9 9 9 9 9 9 9 
     10 10 10 10 10 10 10 10 10 10 
+| Pattern-28| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-28.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+     A 
+     B B 
+     C C C 
+     D D D D 
+     E E E E E 
+     F F F F F F 
+     G G G G G G G 
+     H H H H H H H H 
+     I I I I I I I I I 
+     J J J J J J J J J J 
