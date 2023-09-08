@@ -270,3 +270,17 @@
      A B C D E F G H 
      A B C D E F G H I 
      A B C D E F G H I J 
+| Pattern-23| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-23.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+    10 
+    9 9 
+    8 8 8 
+    7 7 7 7 
+    6 6 6 6 6 
+    5 5 5 5 5 5 
+    4 4 4 4 4 4 4 
+    3 3 3 3 3 3 3 3 
+    2 2 2 2 2 2 2 2 2 
+    1 1 1 1 1 1 1 1 1 1 
