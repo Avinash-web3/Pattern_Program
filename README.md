@@ -382,3 +382,18 @@
       1 2 3 
       1 2 
       1 
+| Pattern-31| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-31.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+
+     A B C D E F G H I J 
+     A B C D E F G H I 
+     A B C D E F G H 
+     A B C D E F G 
+     A B C D E F 
+     A B C D E 
+     A B C D 
+     A B C 
+     A B 
+     A 
