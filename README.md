@@ -438,3 +438,17 @@
     3 2 1 
     2 1 
     1 
+| Pattern-35| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-35.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+#
+
+     J I H G F E D C B A 
+     I H G F E D C B A 
+     H G F E D C B A 
+     G F E D C B A 
+     F E D C B A 
+     E D C B A 
+     D C B A 
+     C B A 
+     B A 
+     A 
