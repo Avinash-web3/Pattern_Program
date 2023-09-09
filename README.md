@@ -424,3 +424,17 @@
     H H H 
     I I 
     I 
+| Pattern-34| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-34.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+# 
+
+    10 9 8 7 6 5 4 3 2 1 
+    9 8 7 6 5 4 3 2 1 
+    8 7 6 5 4 3 2 1 
+    7 6 5 4 3 2 1 
+    6 5 4 3 2 1 
+    5 4 3 2 1 
+    4 3 2 1 
+    3 2 1 
+    2 1 
+    1 
