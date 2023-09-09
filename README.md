@@ -397,3 +397,16 @@
      A B C 
      A B 
      A 
+| Pattern-32| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-32.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+# 
+     1 1 1 1 1 1 1 1 1 1 
+     2 2 2 2 2 2 2 2 2 
+     3 3 3 3 3 3 3 3 
+     4 4 4 4 4 4 4 
+     5 5 5 5 5 5 
+     6 6 6 6 6 
+     7 7 7 7 
+     8 8 8 
+     9 9 
+     10 
