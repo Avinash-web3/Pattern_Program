@@ -410,3 +410,17 @@
      8 8 8 
      9 9 
      10 
+| Pattern-33| [C]()  | [C++]()   |  [Java]()  | [Python]()   |  [JavaScript](https://github.com/Avinash-web3/Pattern_Program/blob/main/JAVASCRIPT/Pattern-33.js)    | [Rust]()  | [Go]()
+|:----   |:----    |:----     | :----    | :----      | :----      | :----      |  :----  |
+# 
+
+    A A A A A A A A A A 
+    B B B B B B B B B 
+    C C C C C C C C 
+    D D D D D D D 
+    E E E E E E 
+    F F F F F 
+    G G G G 
+    H H H 
+    I I 
+    I 
